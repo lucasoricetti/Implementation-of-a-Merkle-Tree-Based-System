@@ -1,0 +1,9 @@
+# Cartelle di configurazione dell'IDE
+.vscode/
+
+# Cartelle di output della compilazione
+bin/
+
+# File temporanei di sistema
+*.class
+*.log
