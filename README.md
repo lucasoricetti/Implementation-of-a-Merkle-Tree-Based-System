@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of the second project for the **Algorithms and Data Structures Lab** course (2024/2025) at the **University of Camerino**, under the guidance of Professor **Luca Tesei**.
+This repository contains the implementation of the first project for the **Algorithms and Data Structures Lab** course (2024/2025) at the **University of Camerino**, under the guidance of Professor **Luca Tesei**.
 This project is an implementation of a Merkle Tree System, 
 designed to ensure data integrity and authenticity. 
 The Merkle Tree is a binary tree structure where each 
